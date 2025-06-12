@@ -2,7 +2,7 @@
 
 A full-stack job board application with AI-powered job description generation. This project consists of a Next.js frontend and a NestJS backend with PostgreSQL database.
 
-![Job Board Homepage](./assets/Screenshot%202025-06-12%20at%205.19.34%20PM.png)
+![Job Board Homepage](./assets/landingpage.png)
 
 ## Table of Contents
 
@@ -57,6 +57,8 @@ Jaspi Job Board is a modern job listing platform that allows employers to post j
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
 - [TypeScript](https://www.typescriptlang.org/) - Typed JavaScript
 - [React Query](https://react-query.tanstack.com/) - Data fetching library
+- [Shadcn/ui](https://ui.shadcn.com/) - Re-usable components built with Radix UI and Tailwind CSS
+- [Framer Motion](https://www.framer.com/motion/) - Animation library for React
 
 ## Project Structure
 
@@ -84,19 +86,19 @@ jaspi/
 ## Screenshots
 
 ### Job Listings Page
-![Job Listings](./assets/Screenshot%202025-06-12%20at%205.19.51%20PM.png)
+![Job Listings](./assets/jobsection.png)
 
 ### Job Details
-![Job Details](./assets/Screenshot%202025-06-12%20at%205.19.55%20PM.png)
+![Job Details](./assets/jobdetailpage.png)
 
 ### Create Job with AI Description
-![Create Job](./assets/Screenshot%202025-06-12%20at%205.20.39%20PM.png)
+![Create Job](./assets/jobeditpage.png)
 
 ### User Authentication
-![Authentication](./assets/Screenshot%202025-06-12%20at%205.21.01%20PM.png)
+![Authentication](./assets/login.png)
 
 ### User Dashboard
-![Dashboard](./assets/Screenshot%202025-06-12%20at%205.21.17%20PM.png)
+![Dashboard](./assets/register.png)
 
 ## Setup and Installation
 
